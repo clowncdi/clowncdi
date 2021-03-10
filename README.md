@@ -1,4 +1,9 @@
-### Hi there 👋
+### 안녕하세요. 개발자가 된 디자이너입니다.😄<br>
+#### 세상 돌아가는 이야기에 참 관심 많습니다.
+
+<div align=right>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclowncdi&count_bg=%232F2F2F&title_bg=%23B0B0B0&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
+</div>
 
 <!--
 **clowncdi/clowncdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

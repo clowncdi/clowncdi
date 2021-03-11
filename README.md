@@ -1,6 +1,7 @@
 ### 안녕하세요. 개발자가 된 디자이너입니다.😄<br>
-#### 세상 돌아가는 이야기 참 좋아하는 호기심 많을 나이 30대입니다.
-
+#### 세상 돌아가는 이야기를 좋아하는 개발하는 디자이너입니다.
+#### 아니, 디자이너였던 개발자입니다.
+ 
 <div align=right>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclowncdi&count_bg=%232F2F2F&title_bg=%23B0B0B0&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 </div>

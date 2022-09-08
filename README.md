@@ -42,7 +42,7 @@
 }
 ```
 ### 👔 BE Project(2021.4 ~)
-- [서울아산병원과 진행하는 PV-AI Portal](https://www.io-ai.org/) - 이상반응 환자의 조기 선별 및 유전체 기반 부작용 예측을 위한 약물감시 빅데이터 포털 시스템.
+- [서울아산병원과 진행한 PV-AI Portal](https://www.io-ai.org/) - 이상반응 환자의 조기 선별 및 유전체 기반 부작용 예측을 위한 약물감시 빅데이터 포털 시스템
 - [GC녹십자지놈 APP 지놈헬스](https://apps.apple.com/kr/app/%EC%A7%80%EB%86%88%ED%97%AC%EC%8A%A4/id1562645071) - 유전체검사 결과조회 APP 관리시스템
 - OncoReader Bigdata
 - GC Genome Portal

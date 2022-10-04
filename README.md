@@ -45,7 +45,7 @@
 - [서울아산병원과 진행한 PV-AI Portal](https://www.io-ai.org/) - 이상반응 환자의 조기 선별 및 유전체 기반 부작용 예측을 위한 약물감시 빅데이터 포털 시스템
 - [GC녹십자지놈 APP 지놈헬스](https://apps.apple.com/kr/app/%EC%A7%80%EB%86%88%ED%97%AC%EC%8A%A4/id1562645071) - 유전체검사 결과조회 APP 관리시스템
 - OncoReader Bigdata
-- GC Genome Portal
+- GC Genome Portal - GC의 유전자검사 정보 검색 서비스 포탈사이트
 
 ### 🌱 BE & FE Side Project(2021.1 ~)
 - [쿨하게 거래하자!! '사이다마켓'](https://cake-ursinia-17b.notion.site/1939c08a7a3549febf2bfeecdcd194ad) - 백엔드 입문 첫 학습용 프로젝트 (자바/스프링)

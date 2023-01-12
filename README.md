@@ -5,9 +5,9 @@
 {
     "id": "clowncdi",
     "name": "Daeil Choi",
-    "location": "Asia/Seoul",
+    "location": "S.Korea/Seoul",
     "email": "clowncdi85@gmail.com",
-    "message": "세상 돌아가는 이야기를 좋아하고, 사부작 사부작 뭔갈 만드는 게 곧 취향입니다.😄",
+    "message": "해 보자. 딱 사고칠 정도까지.",
     "role": [
         {
             "title": "Visual Designer",
@@ -62,18 +62,3 @@
 <div align=right>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclowncdi&count_bg=%232F2F2F&title_bg=%23B0B0B0&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
 </div>
-
-<!--
-**clowncdi/clowncdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

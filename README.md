@@ -58,7 +58,3 @@
 ### 💰 Commerce Business
 - [가정원예 전문 브랜드 베란다레시피 창업(2013~2020)](https://cake-ursinia-17b.notion.site/e-commerce-2013-2020-47e0b8e72a4140438a4cb88c7a1f95c5)
 
-
-<div align=right>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclowncdi&count_bg=%232F2F2F&title_bg=%23B0B0B0&icon=&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
-</div>

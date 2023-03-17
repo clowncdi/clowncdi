@@ -48,8 +48,9 @@
 - GC Genome Portal - GC의 유전자검사 정보 검색 서비스 포탈사이트
 
 ### 🌱 BE & FE Side Project(2021.1 ~)
-- [쿨하게 거래하자!! '사이다마켓'](https://cake-ursinia-17b.notion.site/1939c08a7a3549febf2bfeecdcd194ad) - 백엔드 입문 첫 학습용 프로젝트 (자바/스프링)
-- [오늘의 날씨와 경제(Weaco)](https://weaco.co.kr) - 리액트 학습용 취미생활 프로젝트(간단한 날씨 정보와 경제뉴스 아카이빙 웹)
+- [쿨하게 거래하자!! '사이다마켓'](https://cake-ursinia-17b.notion.site/1939c08a7a3549febf2bfeecdcd194ad) - 중고거래 서비스 프로젝트 (백엔드 자바/스프링 입문용 프로젝트)
+- [오늘의 날씨와 경제(Weaco)](https://weaco.co.kr) - 간단한 날씨 정보와 경제뉴스 아카이빙 웹 (리액트 학습용)
+- [Plus Typo](https://typo.co.kr) - 타이포그래피와 사진을 합성하는 간단한 웹 전용 디자인 도구 (바닐라 자바스크립트 학습용) 
 - 반려동물 SNS 프로젝트
 
 ### 💡 Design Project(2010.7 ~)

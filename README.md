@@ -6,7 +6,7 @@ Tech Blog : [디자이너 최대리와 개발1팀 달리](https://petaverse.pe.k
 
 ## Development Experience
 
-### BE + FE (Java, Spring Boot, 
+### BE + FE
 - [GC Genome Portal](https://portal.gcgenome.co.kr/) (2022) - Genetic test information search service portal site of 'GC Genome'
 - OncoReader Bigdata (2022) - Clinical trial search and recommendation solutions
 - [PV-AI Portal](https://www.io-ai.org/) (2021) - Pharmacovigilance big data portal system for early screening of adverse event patients and genomic-based adverse event prediction

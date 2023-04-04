@@ -17,7 +17,7 @@ Tech Blog : [디자이너 최대리와 개발1팀 달리](https://petaverse.pe.k
 - ETRI, CEDGE center (2022)
 
 ### Side
-- [Plus Typo](https://typo.co.kr) (2023) - Simple design tool to composite typography and photos (vanilla JavaScript)
+- [Plus Typo](https://typo.co.kr) (2023) - Simple design tool to composite typography and photos (vanilla JavaScript -> typescript)
 - [오늘의 날씨와 경제(Weaco)](https://weaco.co.kr) (2022) - Archiving weather and economic news on the web (React)
 - [쿨하게 거래하자!! '사이다마켓'](https://cake-ursinia-17b.notion.site/1939c08a7a3549febf2bfeecdcd194ad) (2021) - Thrift Service Project (Java/Spring)
 - Pet social media projects (2022~)
